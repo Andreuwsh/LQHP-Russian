@@ -1,0 +1,15 @@
+{
+    "structures": [
+      {
+        "structure": "lqhp:decor_bedrock",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 367690392,
+      "spacing": 10,
+      "separation": 5
+    }
+  }
+  

@@ -1,0 +1,1 @@
+execute as @e[tag=lqhpstalker] at @s run damage @s 1 generic by @e[limit=1,tag=lowqualityhorrorproject]

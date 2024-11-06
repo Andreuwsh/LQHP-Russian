@@ -1,0 +1,2 @@
+execute positioned ^ ^ ^-2 as @e[tag=lowqualityhorrorproject] at @s run playsound entity.allay.ambient_without_item block @s ^ ^ ^-2 1
+execute positioned ^ ^ ^-2 as @e[tag=lowqualityhorrorproject] at @s run playsound block.amethyst_block.resonate block @s ^ ^ ^-2 1

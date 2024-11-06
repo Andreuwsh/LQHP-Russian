@@ -1,0 +1,1 @@
+execute as @e[tag=lowqualityhorrorproject] at @s run scoreboard players set @s lqhp.madeinheaven.5 0

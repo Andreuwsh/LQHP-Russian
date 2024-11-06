@@ -1,0 +1,15 @@
+{
+    "structures": [
+      {
+        "structure": "lqhp:decor_underground",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 1344208855,
+      "spacing": 17,
+      "separation": 4
+    }
+  }
+  

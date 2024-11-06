@@ -1,0 +1,16 @@
+Planet Minecraft: https://www.planetminecraft.com/member/bro_omg/
+
+modrinth: https://modrinth.com/user/Bro-Omg56977
+
+discord: https://discord.gg/zFCy2sT3zJ
+
+
+
+if you didnt get the datapack or mod versions from the links here then you didn't download an official version and you probably have a virus ¯\_(ツ)_/¯
+
+no curseforge
+
+UPD:
+
+- Датапак был руссифицирован Andreuwsh. Записки были переведены на русский с сохранением контекста, а не дословно. 
+- Также было удалено событие с "ударом" молнии в игрока для предотварещения грифов со стороны датапака и приспособить его для игры на серверах.

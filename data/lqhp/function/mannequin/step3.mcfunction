@@ -1,0 +1,1 @@
+execute positioned ^ ^ ^-4 as @e[tag=lowqualityhorrorproject] at @s run playsound block.wood.step block @s ^ ^ ^-4 1
